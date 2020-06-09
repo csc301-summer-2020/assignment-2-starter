@@ -1,10 +1,10 @@
-### Assignment 2 Starter Template 
+# Assignment 2 Starter Template 
 
 ## Getting Started 
 
 These instructions will get a copy of the assignment starter template up and running on your local machine. 
 
-# Prerequisites
+### Prerequisites
 
 You must have Python-3 and a package manager [pip] installed on your computer 
 
@@ -16,7 +16,7 @@ pip install pytest
 pip install pytest-cov
 ```
 
-# Running The Code
+### Running The Code
 
 You can start by running main.py, which is in the folder COVIDMonitor. mine.py has the main method that will start the program. 
 
