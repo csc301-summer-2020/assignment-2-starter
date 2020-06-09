@@ -18,7 +18,7 @@ pip install pytest-cov
 
 ### Running The Code
 
-You can start by running main.py, which is in the folder COVIDMonitor. mine.py has the main method that will start the program. 
+You can start by running main.py, which is in the folder COVIDMonitor. main.py has the main method that will start the program. 
 
 
 ```bash
